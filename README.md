@@ -1,3 +1,3 @@
 # Componentes
 Instalacioncomponetes
-paso 1
+paso arriba
